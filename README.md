@@ -1,6 +1,6 @@
 # Manila-Workforce-Dashboard
 
-Smarter Philippines through Data Analytics R&D, Training and Adoption </br>
+Project Smarter Philippines through Data Analytics, R&D, Training, and Adoption (SPARTA) </br>
 SPCapstone003 </br>
 
 
